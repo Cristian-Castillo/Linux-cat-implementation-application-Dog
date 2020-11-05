@@ -1,10 +1,6 @@
 # Readme
-## Author: Cristian C. Castillo & Baubak Saadat <br />
-   CruzID: ccarri11<br />
-   CruzID: saadat<br />
-   🐶 Dog.cpp Assignment 0 <br />
-   Professor Nawab  <br />
-   UCSC CSE 130 🐌
+## Author: Cristian C. Castillo 
+
 --------
 ## Requirements 💻
 The following installations are required to execute code:
@@ -14,7 +10,7 @@ The following installations are required to execute code:
 
 - Clang
 
-## Assignment 0 Directory Contents 📂
+## Directory Contents 📂
 - dog.cpp: is the main driver program
 
 - dog_definition.cpp: Contains function definitions and operations
