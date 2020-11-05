@@ -1,9 +1,5 @@
 /*
-    Cristian C. Castillo & Baubak Saadat
-    SID # 1576341
-    Professor Nawab
-    CSE 130
-    Assignment #0
+    Cristian C. Castillo 
 */
 #ifndef DOG_HEADER_H
 #define DOG_HEADER_H
