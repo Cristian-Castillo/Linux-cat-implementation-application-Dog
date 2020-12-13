@@ -11,7 +11,9 @@ The following installations are required to execute code:
 - Clang
 
 ## App Overview GIF
-<img src="http://g.recordit.co/dbMPhyxtqx.gif" width:"450" />
+<img src="http://g.recordit.co/dbMPhyxtqx.gif" width:450 >
+
+* Dog implemented as Cat!
 
 ## Directory Contents 📂
 - dog.cpp: is the main driver program
